@@ -3,4 +3,4 @@
 3. Implementamos os teste para User e Tasks(Controle)
 4. Finalização
 5. **(A biblioteca Jest foi utilizada)
-6. 
+
